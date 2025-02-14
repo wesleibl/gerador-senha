@@ -8,8 +8,6 @@ Gerador de Senhas é um aplicativo mobile desenvolvido com React Native e Expo p
 - ✅ Combinação aleatória de letras (maiúsculas e minúsculas), números e símbolos.
 - ✅ Algoritmo seguro para garantir aleatoriedade verdadeira.
 
-![Demonstração do aplicativo](demo-gerador-senhas.gif)
-
 ## 📲 Como Funciona
 - Ajuste o Tamanho: Escolha entre 6 e 20 caracteres.
 - Gere a Senha: Toque em "Gerar" para criar uma senha aleatória.
